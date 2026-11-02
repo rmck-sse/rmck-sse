@@ -1,7 +1,5 @@
 # I am Richard McKenzie
 
-**Senior Software Engineer**
-
 ![GitHub followers](https://img.shields.io/github/followers/rmck-sse?style=social)
 ![Status](https://img.shields.io/badge/Looking_for-Opportunities-brightgreen)
 
@@ -22,4 +20,4 @@ Enterprise Solutions
 - **LinkedIn**: [View Profile](https://linkedin.com/in/rmck-sse)
 
 ---
-*Software Engineer | Problem Solver | Tech Enthusiast*
+*Engineer | Problem Solver | Tech Enthusiast*
