@@ -1,13 +1,11 @@
-# Richard McKenzie
+## Richard McKenzie
 
-**Senior Software Engineer**
+**Focus**: Backend systems, performance optimization, database design
 
-Building reliable, maintainable systems with focus on:
-- Backend architecture
-- Performance optimization
-- Scalable database design
-- Code quality and testing
+**Proven in**:
+- High-traffic system design (millions of requests/day)
+- Database optimization and query performance
+- Microservices architecture
+- Team mentorship and code review
 
-**Experience**: System design, performance engineering, team mentorship, large-scale infrastructure
-
-**Technologies**: Python, Go, Java, C++, PostgreSQL, Redis, Kafka, AWS, Kubernetes
+**Tools**: Python, Go, Java, PostgreSQL, Kafka, Redis, Kubernetes
