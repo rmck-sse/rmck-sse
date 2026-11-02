@@ -1,19 +1,29 @@
-# I am Richard McKenzie
+## Richard McKenzie
 
-**Senior Software Engineer**
+**Reinforcement Learning & Game AI**
 
-## Focus Areas
-Backend Systems, Architecture Design, Reinforcement Learning, Decision Systems, Neural Networks, Game AI
+### Systems Explored
 
-## ML Experience
-- Implemented reinforcement learning algorithms for autonomous decision-making and optimization
-- Built multi-agent simulations using policy gradient methods and Q-learning frameworks
-- Created game AI systems demonstrating advanced strategic reasoning and adaptive behavior
-- Developed neural network optimization techniques reducing model training time by 60%
+The goal of RL is to learn optimal decision-making through trial and error. But RL is hard.
 
-## Connect
-- GitHub: [@rmck-sse](https://github.com/rmck-sse)  
-- LinkedIn: [Profile](https://linkedin.com/in/rmck-sse)
+**Implemented:**
+- Q-learning with function approximation
+- Policy gradient methods (A3C, PPO)
+- Actor-Critic architectures
+- Multi-agent systems
 
----
-*Building solutions that matter.*
+**Challenges Conquered:**
+- Exploration vs exploitation tradeoff
+- Credit assignment over long horizons
+- Sparse reward environments
+- Convergence stability
+
+### Game AI Experiments
+- Built agent for Atari games (DQN)
+- Chess AI using AlphaZero-inspired methods
+- Cooperative multi-agent coordination
+- Robotic control simulation
+
+**Insight:** RL shines in complex domains where hand-coded policies fail. The art is in reward design—get that wrong and the algorithm learns the wrong thing.
+
+Current focus: Sample efficiency and transfer learning in RL.
