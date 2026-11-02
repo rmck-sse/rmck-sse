@@ -1,29 +1,25 @@
-## Richard McKenzie
+I am Richard McKenzie
 
-**Reinforcement Learning & Game AI**
+**Reinforcement Learning & Autonomous Systems Engineer**
 
-### Systems Explored
+Specializing in building intelligent decision-making systems through reinforcement learning and game AI.
 
-The goal of RL is to learn optimal decision-making through trial and error. But RL is hard.
-
-**Implemented:**
+**Technical Implementations:**
 - Q-learning with function approximation
 - Policy gradient methods (A3C, PPO)
-- Actor-Critic architectures
-- Multi-agent systems
+- Actor-Critic network architectures
+- Multi-agent coordination systems
 
-**Challenges Conquered:**
-- Exploration vs exploitation tradeoff
-- Credit assignment over long horizons
+**Challenges Addressed:**
+- Exploration vs exploitation optimization
+- Long-horizon credit assignment
 - Sparse reward environments
-- Convergence stability
+- Training stability and convergence
 
-### Game AI Experiments
-- Built agent for Atari games (DQN)
-- Chess AI using AlphaZero-inspired methods
-- Cooperative multi-agent coordination
+**Game AI Development:**
+- Atari games using DQN
+- Chess AI with AlphaZero-inspired methods
+- Cooperative multi-agent systems
 - Robotic control simulation
 
-**Insight:** RL shines in complex domains where hand-coded policies fail. The art is in reward design—get that wrong and the algorithm learns the wrong thing.
-
-Current focus: Sample efficiency and transfer learning in RL.
+Key insight: RL excels in complex domains where hand-coded policies fail. Reward design is critical. Focus: Sample efficiency and transfer learning.
