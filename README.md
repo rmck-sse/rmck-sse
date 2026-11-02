@@ -1,25 +1,25 @@
-I am Richard McKenzie
+Richard McKenzie
+Reinforcement Learning & Game AI
 
-**Reinforcement Learning & Autonomous Systems Engineer**
+### Problem Space
 
-Specializing in building intelligent decision-making systems through reinforcement learning and game AI.
+Learning optimal decision-making through trial and error. Hard problem, worthwhile when hand-coded policies fail.
 
-**Technical Implementations:**
+### Implementations
+
 - Q-learning with function approximation
 - Policy gradient methods (A3C, PPO)
-- Actor-Critic network architectures
-- Multi-agent coordination systems
+- Actor-Critic networks
+- Multi-agent coordination
 
-**Challenges Addressed:**
-- Exploration vs exploitation optimization
-- Long-horizon credit assignment
-- Sparse reward environments
-- Training stability and convergence
+### Games & Environments
 
-**Game AI Development:**
-- Atari games using DQN
-- Chess AI with AlphaZero-inspired methods
-- Cooperative multi-agent systems
-- Robotic control simulation
+Atari via DQN, Chess AI (AlphaZero-inspired), Cooperative multi-agent, Robotic simulation
 
-Key insight: RL excels in complex domains where hand-coded policies fail. Reward design is critical. Focus: Sample efficiency and transfer learning.
+### Key Challenges
+
+Exploration/exploitation, Credit assignment, Sparse rewards, Stability
+
+**Insight:** Reward design is critical. Get it wrong, agent learns the wrong thing.
+
+**Focus:** Sample efficiency, Transfer learning
