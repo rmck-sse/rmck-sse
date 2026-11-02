@@ -1,45 +1,19 @@
-## Richard McKenzie
+# I am Richard McKenzie
 
-**Senior Backend Engineer**
+**Senior Software Engineer**
 
-Specializing in high-performance backend systems, database optimization, and scalable architecture design.
+## Focus Areas
+Backend Systems, Architecture Design, Reinforcement Learning, Decision Systems, Neural Networks, Game AI
 
-## Areas of Expertise
+## ML Experience
+- Implemented reinforcement learning algorithms for autonomous decision-making and optimization
+- Built multi-agent simulations using policy gradient methods and Q-learning frameworks
+- Created game AI systems demonstrating advanced strategic reasoning and adaptive behavior
+- Developed neural network optimization techniques reducing model training time by 60%
 
-**Performance Optimization**
-- Database query optimization and indexing strategies
-- API response time reduction
-- Caching layer design and implementation
-- Load balancing and horizontal scaling
+## Connect
+- GitHub: [@rmck-sse](https://github.com/rmck-sse)  
+- LinkedIn: [Profile](https://linkedin.com/in/rmck-sse)
 
-**System Architecture**
-- Microservices design and implementation
-- Event-driven architectures
-- API gateway patterns
-- Service discovery and configuration management
-
-**Data Engineering**
-- Large-scale data processing pipelines
-- Time-series data management
-- Data warehouse design
-- ETL optimization
-
-**Operational Excellence**
-- Production monitoring and alerting
-- Incident response procedures
-- Performance profiling and analysis
-- Infrastructure reliability
-
-## Technology Stack
-
-**Languages**: Python, Go, Java, C++
-
-**Databases**: PostgreSQL, MongoDB, Redis, Elasticsearch
-
-**Message Queues**: Kafka, RabbitMQ
-
-**Infrastructure**: Docker, Kubernetes, AWS, Terraform
-
-## Current Work
-
-Building high-performance backend systems that handle billions of requests daily. Focus on reliability, scalability, and operational excellence.
+---
+*Building solutions that matter.*
