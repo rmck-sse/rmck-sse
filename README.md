@@ -1,4 +1,4 @@
-# Richard McKenzie
+## Richard McKenzie
 
 **Senior Backend Engineer**
 
