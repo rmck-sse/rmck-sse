@@ -1,23 +1,13 @@
-# I am Richard McKenzie
+# Richard McKenzie
 
-![GitHub followers](https://img.shields.io/github/followers/rmck-sse?style=social)
-![Status](https://img.shields.io/badge/Looking_for-Opportunities-brightgreen)
+**Senior Software Engineer**
 
-## 🛠️ Technical Skills
-Backend Systems, Architecture Design, Performance Optimization
+Building reliable, maintainable systems with focus on:
+- Backend architecture
+- Performance optimization
+- Scalable database design
+- Code quality and testing
 
-## 🎯 Specialization
-Enterprise Solutions
+**Experience**: System design, performance engineering, team mentorship, large-scale infrastructure
 
-## 📊 What I Do
-- Architect scalable systems
-- Write maintainable code
-- Lead technical initiatives
-- Share knowledge with teams
-
-## 🔗 Profiles
-- **GitHub**: [@rmck-sse](https://github.com/rmck-sse)
-- **LinkedIn**: [View Profile](https://linkedin.com/in/rmck-sse)
-
----
-*Engineer | Problem Solver | Tech Enthusiast*
+**Technologies**: Python, Go, Java, C++, PostgreSQL, Redis, Kafka, AWS, Kubernetes
