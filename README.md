@@ -1,65 +1,69 @@
-# Richard McKenzie
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f14,100:1d4ed8&height=160&section=header&text=Richard%20McKenzie&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=dS%20%3D%20%CE%BCS%20dt%20%2B%20%CF%83S%20dW&descSize=20&descAlignY=68" />
 
-**Reinforcement Learning & Autonomous Systems Engineer**
 
-## Problem Space
+<h3 align="center">Mathematician · Senior Quantitative Software Engineer</h3>
 
-Learning optimal decision-making through trial and error is hard. But when hand-coded policies fail, when the problem space is too large to manually engineer solutions, reinforcement learning shines.
 
-## Core Implementations
+**Mathematics first, then code.** My training is in mathematical finance, and the problems I care about most are how prices and risks evolve as stochastic processes, how to price and hedge claims on them, and how to calibrate those models honestly to data. I write that mathematics as software with the discipline of a proof, backed by 10+ years building production systems for payments and financial platforms.
 
-### Q-Learning with Function Approximation
-Learning value functions for large state spaces using neural networks. Balancing exploration and exploitation through epsilon-greedy strategies.
 
-### Policy Gradient Methods
-Direct policy optimization through A3C (Asynchronous Advantage Actor-Critic) and PPO (Proximal Policy Optimization). Better convergence properties than value-based methods for complex problems.
+`01 / focus`
 
-### Actor-Critic Architecture
-Combining value estimation and policy optimization. Actor makes decisions, critic evaluates quality. Reduces variance and stabilizes training.
 
-### Multi-Agent Coordination
-Multiple agents learning simultaneously with shared and individual rewards. Challenges: credit assignment, coordination, competitive vs cooperative dynamics.
+<table>
+<tr>
+<td align="center" width="33%"><h2>∂</h2><b>Stochastic modeling</b><br><sub>SDE simulation · calibration · Monte Carlo</sub></td>
+<td align="center" width="33%"><h2>⌈⌉</h2><b>Derivatives &amp; risk</b><br><sub>jumps · stochastic volatility · credit</sub></td>
+<td align="center" width="33%"><h2>O(n)</h2><b>Numerical methods</b><br><sub>variance reduction · FFT pricing · optimization</sub></td>
+</tr>
+<tr>
+<td align="center"><h2>Σ</h2><b>Payments &amp; fintech</b><br><sub>risk scoring · idempotency · reconciliation</sub></td>
+<td align="center"><h2>λ</h2><b>Distributed systems</b><br><sub>exactly-once · queues · event sourcing</sub></td>
+<td align="center"><h2>⊞</h2><b>Full-stack &amp; AI</b><br><sub>Django · React · ML-backed services</sub></td>
+</tr>
+</table>
 
-## Key Challenges Addressed
 
-### Exploration vs Exploitation
-Early in training, exploit successful strategies. Later, explore to find better solutions. Balancing this tradeoff critically impacts learning speed.
+`02 / projects`
 
-### Credit Assignment Over Long Horizons
-How to attribute credit/blame for outcomes when many steps elapse between decision and reward? Discount factors, eligibility traces, and advantage estimation help.
 
-### Sparse Reward Environments
-Many real problems have sparse rewards (win/lose at game end). Reward shaping helps but introduces bias. Curiosity-driven exploration provides alternative.
+<dl>
+<dt>Martingale</dt>
+<dd>SDE simulation and calibration library — GBM, OU, CIR, Heston — with convergence checks against closed-form solutions.<br>
+<sub>Python · NumPy · SciPy · Numba</sub></dd>
+<dt>Levy Lab</dt>
+<dd>Option pricing under jump-diffusion and variance-gamma models, Fourier and Monte Carlo prices cross-validated.<br>
+<sub>Python · NumPy · SciPy · Numba</sub></dd>
+<dt>Copula Works</dt>
+<dd>Default-dependence modeling for credit portfolios, with importance-sampled tail loss estimates.<br>
+<sub>Python · SciPy · pandas · Matplotlib</sub></dd>
+<dt>Hedgehog</dt>
+<dd>Monte Carlo comparison of FX hedging strategies on cost, variance and CVaR.<br>
+<sub>Python · Numba · FastAPI · React</sub></dd>
+<dt>RentCurve</dt>
+<dd>Lease pricing optimizer balancing occupancy targets and revenue with explainable recommendations.<br>
+<sub>SciPy · pandas · Django · PostgreSQL</sub></dd>
+<dt>Fraudwall</dt>
+<dd>Real-time payment risk scoring on the authorization path, with shadow-mode model rollouts.<br>
+<sub>LightGBM · FastAPI · Redis · Kafka</sub></dd>
+</dl>
 
-### Training Stability
-RL training is notoriously unstable. Small changes in learning rate, network architecture, or hyperparameters cause catastrophic failures.
 
-## Game & Environment Work
+`03 / axioms`
 
-### Atari Games
-Deep Q-Networks (DQN) learning to play Atari games from raw pixels. Breakthrough demonstrating deep RL viability.
 
-### Chess AI
-AlphaZero-inspired approach combining search, neural networks, and self-play. Learning strong chess strategies without human examples.
+> → State the model's assumptions before trusting its output<br>
+> → Look for the simpler design first<br>
+> → Get it correct first, then make it fast
 
-### Multi-Agent Cooperation
-Agents learning to cooperate on shared tasks. Requiring communication, trust, and coordinated strategy.
 
-### Robotic Simulation
-Continuous control tasks like navigation, manipulation, locomotion. Transfer learning from simulation to real robots.
+`04 / stack`
 
-## Critical Insight
 
-Reward design determines what the agent learns. Get it wrong and the agent optimizes the wrong objective. Proxies for real goals often have perverse consequences. Careful reward engineering is harder than algorithm selection.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,nodejs,react,postgres,redis,kafka,docker,aws&perline=10" />
+</p>
 
-## Research Interests
 
-- Sample efficiency in RL (learning faster with less data)
-- Transfer learning across tasks and domains
-- Sim-to-real transfer reducing real-world trial-and-error
-- Interpretability of learned policies
-- Safe reinforcement learning with constraints
+<p align="center"><sub>Also: NumPy · SciPy · Numba · pandas · LightGBM</sub></p>
 
----
-
-*Teaching machines to make decisions.*
